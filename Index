@@ -1,0 +1,38 @@
+<head>
+<title>Membuat Biodata Sederhana</title>
+</head>
+<body style="background-color:silver">
+<table border="1" style="width: 700px;">
+<tr><td align="center" colspan="3" bgcolor="red"><font color="blue" size="20px">
+<b>BIODATA</b>
+</font></td></tr>
+<tr>
+<td rowspan="5" width="100px">
+<img src="image.jpg" width="150px" height="200px" border="2">
+</td>
+<td bgcolor="#0000FF">NAMA </td>
+<td> Lince simangunsong </td>
+</tr>
+<tr>
+<td bgcolor="#0000FF"> UMUR </td>
+<td> 24 TAHUN </td>
+</tr>
+<tr>
+<td bgcolor="#0000FF"> ALAMAT </td>
+<td> Jln.A.H.Nasution Gang permai II </td>
+</tr>
+<tr>
+<td bgcolor="#0000FF"> Jk </td>
+<td> perempuan </td>
+</tr>
+<tr>
+<td align="center" colspan="2" bgcolor="white"> <a href="https://www.anaktekno.com">WWW.ANAKTEKNO.COM</a> </td>
+</tr>
+</table>
+</body>
+</html>
+
+<!---
+lincesimangunsong/lincesimangunsong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
